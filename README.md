@@ -29,5 +29,3 @@ This project is a real-time **IoT-based health monitoring system** using an **Ar
 4. The **ESP8266 module** sends the data to an IoT server (e.g., Thingspeak, Blynk, Firebase).
 5. The system **continually monitors** and updates the vitals over Wi-Fi.
 
-## 🌐 Data Flow
-
